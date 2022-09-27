@@ -1,0 +1,7 @@
+export POSTGRES_HOST=mide-db-instance.c0geeukv3zuj.us-east-1.rds.amazonaws.com
+export POSTGRES_DB=mide_db
+export AWS_BUCKET=test-823435212100-dev
+export AWS_REGION=us-east-1
+export AWS_PROFILE=udacity
+export JWT_SECRET=testing
+export URL=http://localhost:8100
